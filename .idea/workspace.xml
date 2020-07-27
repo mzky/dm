@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e8bec7a-f58b-49f0-b4ed-d3f1c1c28eab" name="默认更改列表" comment="" />
+    <list default="true" id="5e8bec7a-f58b-49f0-b4ed-d3f1c1c28eab" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,10 +13,22 @@
   </component>
   <component name="GOROOT" path="/usr/lib/go" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="mzky@163.com" />
+        <option value="mzky" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1f7rBjrpSNEGUlrFQbyrOFvoNaY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -29,13 +45,45 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="dm" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -44,21 +92,16 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
-    <environment>
-      <map>
-        <entry key="GOPROXY" value="https://goproxy.io,direct" />
-      </map>
-    </environment>
   </component>
   <component name="WindowStateProjectService">
     <state x="755" y="358" width="400" height="334" key="#Go_Modules" timestamp="1595579866109">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="755" y="358" width="400" height="334" key="#Go_Modules/0.0.1920.1080@0.0.1920.1080" timestamp="1595579866109" />
-    <state x="530" y="49" width="850" height="951" key="CommitChangelistDialog2" timestamp="1595581861261">
+    <state x="530" y="49" width="850" height="951" key="CommitChangelistDialog2" timestamp="1595583031128">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="530" y="49" width="850" height="951" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1595581861261" />
+    <state x="530" y="49" width="850" height="951" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1595583031128" />
     <state x="857" y="381" width="439" height="294" key="EnvironmentVariablesDialog" timestamp="1595579863132">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
